@@ -5,8 +5,8 @@
   },
   "plugins": [
     {
-      "name": "example-skill",
-      "source": "./plugins/example-skill"
+      "name": "project-memory",
+      "source": "./plugins/project-memory"
     }
   ]
 }

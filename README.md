@@ -11,7 +11,7 @@ Public marketplace of generic, shareable Claude Code skills.
 ## Install a plugin
 
 ```
-/plugin install example-skill@claude-skills
+/plugin install project-memory@claude-skills
 ```
 
 ## Add a new skill
