@@ -1,0 +1,8 @@
+{
+  "name": "project-memory",
+  "description": "Initialize a project to use project-local MEMORY.md and ERRORS.md files instead of the home-directory memory system",
+  "version": "1.0.0",
+  "author": {
+    "name": "Larry Meadors"
+  }
+}
