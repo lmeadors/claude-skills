@@ -1,0 +1,8 @@
+{
+  "name": "marketplace-tools",
+  "description": "Move or copy skills between projects and marketplaces.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Larry Meadors"
+  }
+}

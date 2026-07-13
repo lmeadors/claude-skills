@@ -9,6 +9,10 @@
       "source": "./plugins/commit-style"
     },
     {
+      "name": "marketplace-tools",
+      "source": "./plugins/marketplace-tools"
+    },
+    {
       "name": "project-memory",
       "source": "./plugins/project-memory"
     },
