@@ -11,6 +11,10 @@
     {
       "name": "project-memory",
       "source": "./plugins/project-memory"
+    },
+    {
+      "name": "repo-bootstrap",
+      "source": "./plugins/repo-bootstrap"
     }
   ]
 }

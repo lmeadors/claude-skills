@@ -1,0 +1,8 @@
+{
+  "name": "repo-bootstrap",
+  "description": "Initialize CLAUDE.md for a repo and produce a prioritized proposal of Claude Code automation opportunities.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Larry Meadors"
+  }
+}
