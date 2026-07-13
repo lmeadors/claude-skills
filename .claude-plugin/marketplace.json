@@ -5,6 +5,10 @@
   },
   "plugins": [
     {
+      "name": "commit-style",
+      "source": "./plugins/commit-style"
+    },
+    {
       "name": "project-memory",
       "source": "./plugins/project-memory"
     }

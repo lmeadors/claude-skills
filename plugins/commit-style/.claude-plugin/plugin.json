@@ -1,0 +1,8 @@
+{
+  "name": "commit-style",
+  "description": "Check the user's global CLAUDE.md for a commit message style rule and add one if missing",
+  "version": "1.0.0",
+  "author": {
+    "name": "Larry Meadors"
+  }
+}
